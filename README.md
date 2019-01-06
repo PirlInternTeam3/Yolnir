@@ -7,9 +7,10 @@ docs 폴더로 이동한 뒤
     pip install -r requirements.txt
 
 
-One Drive 에 올려진 weight 파일을 다운 받는다
+One Drive 에 올려진 weight 파일을 다운 받는다.(링크 공개 불가)
 
-[weight 다운받기]()
+One Drive > 4조 연구인턴 > 3조 > weight
+
 
 그외 깃허브 링크 참고하기
 

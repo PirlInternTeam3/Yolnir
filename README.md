@@ -38,9 +38,8 @@ yolov3_threading_test 먼저 돌려볼 것을 권장함.
 이후에 드론에 연결하고 yolnir_main.py를 시행하면 된다.
 
 
-## 데모영상
-https://www.youtube.com/watch?v=9Yw1wYKUD_s&list=PL-_derCIV1d8pSv79OjW2ALqUAoZakAE_
-
+## 데모영상 (Youtube)
+https://youtu.be/QufmAMFmBCo
 
 ## 그외
 

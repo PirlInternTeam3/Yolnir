@@ -47,7 +47,7 @@ prompt-toolkit==2.0.7
 protobuf==3.6.1
 ptyprocess==0.6.0
 pygame==1.9.4
-Pygments==2.3.1
+Pygments==2.7.4
 pyparrot==1.5.10
 pyparsing==2.3.0
 PyQt5==5.11.3
